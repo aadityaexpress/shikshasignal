@@ -1,0 +1,8 @@
+record_id,assessment_id,student_id,assessment_date,assessment_source,assessment_version,domain,skill_code,skill_name,score,max_score,proficiency_level,data_source,expected_issue
+REC-ERR-001,ASMT-ERR-01,STU-0001,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,-1,5,emerging,synthetic_demo,ERR_NEGATIVE_SCORE
+REC-ERR-002,ASMT-ERR-01,STU-0002,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,7,5,proficient,synthetic_demo,ERR_SCORE_EXCEEDS_MAX
+REC-ERR-003,ASMT-ERR-02,,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,3,5,emerging,synthetic_demo,ERR_MISSING_STUDENT_ID
+REC-ERR-004,ASMT-ERR-03,STU-0003,2026-15-40,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,3,5,emerging,synthetic_demo,ERR_INVALID_DATE
+REC-ERR-005,ASMT-ERR-04,STU-0004,2026-09-05,classroom_check,FLN-MVP-v1,literacy,quantum_physics,Quantum Physics,4,5,proficient,synthetic_demo,ERR_UNKNOWN_SKILL_CODE
+REC-ERR-006,ASMT-ERR-05,STU-0005,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,0,0,emerging,synthetic_demo,ERR_ZERO_MAX_SCORE
+REC-ERR-007,ASMT-ERR-06,Aaditya_Sharma,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo,ERR_NON_PSEUDONYMOUS_ID

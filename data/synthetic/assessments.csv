@@ -1,0 +1,520 @@
+record_id,assessment_id,student_id,assessment_date,assessment_source,assessment_version,domain,skill_code,skill_name,score,max_score,proficiency_level,data_source
+REC-00001,ASMT-0001,STU-0001,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,4,5,proficient,synthetic_demo
+REC-00002,ASMT-0001,STU-0001,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00003,ASMT-0001,STU-0001,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,3,5,emerging,synthetic_demo
+REC-00004,ASMT-0001,STU-0001,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00005,ASMT-0002,STU-0002,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,4,5,proficient,synthetic_demo
+REC-00006,ASMT-0002,STU-0002,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,1,5,needs_review,synthetic_demo
+REC-00007,ASMT-0002,STU-0002,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,3,5,emerging,synthetic_demo
+REC-00008,ASMT-0002,STU-0002,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00009,ASMT-0003,STU-0003,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,5,5,proficient,synthetic_demo
+REC-00010,ASMT-0003,STU-0003,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00011,ASMT-0003,STU-0003,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00012,ASMT-0003,STU-0003,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00013,ASMT-0004,STU-0004,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,5,5,proficient,synthetic_demo
+REC-00014,ASMT-0004,STU-0004,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00015,ASMT-0004,STU-0004,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,3,5,emerging,synthetic_demo
+REC-00016,ASMT-0004,STU-0004,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00017,ASMT-0005,STU-0005,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,1,5,needs_review,synthetic_demo
+REC-00018,ASMT-0005,STU-0005,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00019,ASMT-0005,STU-0005,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,3,5,emerging,synthetic_demo
+REC-00020,ASMT-0005,STU-0005,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,3,5,emerging,synthetic_demo
+REC-00021,ASMT-0006,STU-0006,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,2,5,needs_review,synthetic_demo
+REC-00022,ASMT-0006,STU-0006,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00023,ASMT-0006,STU-0006,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,2,5,needs_review,synthetic_demo
+REC-00024,ASMT-0006,STU-0006,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00025,ASMT-0007,STU-0007,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,4,5,proficient,synthetic_demo
+REC-00026,ASMT-0007,STU-0007,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,1,5,needs_review,synthetic_demo
+REC-00027,ASMT-0007,STU-0007,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00028,ASMT-0007,STU-0007,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00029,ASMT-0008,STU-0008,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,3,5,emerging,synthetic_demo
+REC-00030,ASMT-0008,STU-0008,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00031,ASMT-0008,STU-0008,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,2,5,needs_review,synthetic_demo
+REC-00032,ASMT-0008,STU-0008,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,3,5,emerging,synthetic_demo
+REC-00033,ASMT-0009,STU-0009,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,3,5,emerging,synthetic_demo
+REC-00034,ASMT-0009,STU-0009,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00035,ASMT-0009,STU-0009,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00036,ASMT-0009,STU-0009,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00037,ASMT-0010,STU-0010,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,2,5,needs_review,synthetic_demo
+REC-00038,ASMT-0010,STU-0010,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00039,ASMT-0010,STU-0010,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00040,ASMT-0010,STU-0010,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00041,ASMT-0011,STU-0011,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,3,5,emerging,synthetic_demo
+REC-00042,ASMT-0011,STU-0011,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,2,5,needs_review,synthetic_demo
+REC-00043,ASMT-0011,STU-0011,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00044,ASMT-0011,STU-0011,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,3,5,emerging,synthetic_demo
+REC-00045,ASMT-0012,STU-0012,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,5,5,proficient,synthetic_demo
+REC-00046,ASMT-0012,STU-0012,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00047,ASMT-0012,STU-0012,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00048,ASMT-0012,STU-0012,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,1,5,needs_review,synthetic_demo
+REC-00049,ASMT-0013,STU-0013,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,3,5,emerging,synthetic_demo
+REC-00050,ASMT-0013,STU-0013,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00051,ASMT-0013,STU-0013,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00052,ASMT-0013,STU-0013,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00053,ASMT-0014,STU-0014,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,3,5,emerging,synthetic_demo
+REC-00054,ASMT-0014,STU-0014,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00055,ASMT-0014,STU-0014,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00056,ASMT-0014,STU-0014,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00057,ASMT-0015,STU-0015,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,1,5,needs_review,synthetic_demo
+REC-00058,ASMT-0015,STU-0015,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00059,ASMT-0015,STU-0015,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00060,ASMT-0015,STU-0015,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,3,5,emerging,synthetic_demo
+REC-00061,ASMT-0016,STU-0016,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,5,5,proficient,synthetic_demo
+REC-00062,ASMT-0016,STU-0016,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00063,ASMT-0016,STU-0016,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00064,ASMT-0016,STU-0016,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00065,ASMT-0017,STU-0017,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,5,5,proficient,synthetic_demo
+REC-00066,ASMT-0017,STU-0017,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,2,5,needs_review,synthetic_demo
+REC-00067,ASMT-0017,STU-0017,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,1,5,needs_review,synthetic_demo
+REC-00068,ASMT-0017,STU-0017,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00069,ASMT-0018,STU-0018,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,4,5,proficient,synthetic_demo
+REC-00070,ASMT-0018,STU-0018,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00071,ASMT-0018,STU-0018,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00072,ASMT-0018,STU-0018,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00073,ASMT-0019,STU-0019,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,1,5,needs_review,synthetic_demo
+REC-00074,ASMT-0019,STU-0019,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00075,ASMT-0019,STU-0019,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00076,ASMT-0019,STU-0019,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,2,5,needs_review,synthetic_demo
+REC-00077,ASMT-0020,STU-0020,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,5,5,proficient,synthetic_demo
+REC-00078,ASMT-0020,STU-0020,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00079,ASMT-0020,STU-0020,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,3,5,emerging,synthetic_demo
+REC-00080,ASMT-0020,STU-0020,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00081,ASMT-0021,STU-0021,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,2,5,needs_review,synthetic_demo
+REC-00082,ASMT-0021,STU-0021,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00083,ASMT-0021,STU-0021,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,2,5,needs_review,synthetic_demo
+REC-00084,ASMT-0021,STU-0021,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00085,ASMT-0022,STU-0022,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,3,5,emerging,synthetic_demo
+REC-00086,ASMT-0022,STU-0022,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00087,ASMT-0022,STU-0022,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00088,ASMT-0022,STU-0022,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00089,ASMT-0023,STU-0023,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,5,5,proficient,synthetic_demo
+REC-00090,ASMT-0023,STU-0023,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00091,ASMT-0023,STU-0023,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,1,5,needs_review,synthetic_demo
+REC-00092,ASMT-0023,STU-0023,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,1,5,needs_review,synthetic_demo
+REC-00093,ASMT-0024,STU-0024,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,4,5,proficient,synthetic_demo
+REC-00094,ASMT-0024,STU-0024,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00095,ASMT-0024,STU-0024,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,1,5,needs_review,synthetic_demo
+REC-00096,ASMT-0024,STU-0024,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,3,5,emerging,synthetic_demo
+REC-00097,ASMT-0025,STU-0025,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,5,5,proficient,synthetic_demo
+REC-00098,ASMT-0025,STU-0025,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,1,5,needs_review,synthetic_demo
+REC-00099,ASMT-0025,STU-0025,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,3,5,emerging,synthetic_demo
+REC-00100,ASMT-0025,STU-0025,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00101,ASMT-0026,STU-0026,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,5,5,proficient,synthetic_demo
+REC-00102,ASMT-0026,STU-0026,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00103,ASMT-0026,STU-0026,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00104,ASMT-0026,STU-0026,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,1,5,needs_review,synthetic_demo
+REC-00105,ASMT-0027,STU-0027,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,5,5,proficient,synthetic_demo
+REC-00106,ASMT-0027,STU-0027,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00107,ASMT-0027,STU-0027,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00108,ASMT-0027,STU-0027,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00109,ASMT-0028,STU-0028,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,2,5,needs_review,synthetic_demo
+REC-00110,ASMT-0028,STU-0028,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00111,ASMT-0028,STU-0028,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,3,5,emerging,synthetic_demo
+REC-00112,ASMT-0028,STU-0028,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,2,5,needs_review,synthetic_demo
+REC-00113,ASMT-0029,STU-0029,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,1,5,needs_review,synthetic_demo
+REC-00114,ASMT-0029,STU-0029,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00115,ASMT-0029,STU-0029,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,3,5,emerging,synthetic_demo
+REC-00116,ASMT-0029,STU-0029,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00117,ASMT-0030,STU-0030,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,4,5,proficient,synthetic_demo
+REC-00118,ASMT-0030,STU-0030,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,1,5,needs_review,synthetic_demo
+REC-00119,ASMT-0030,STU-0030,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00120,ASMT-0030,STU-0030,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,2,5,needs_review,synthetic_demo
+REC-00121,ASMT-0031,STU-0031,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,5,5,proficient,synthetic_demo
+REC-00122,ASMT-0031,STU-0031,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00123,ASMT-0031,STU-0031,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,3,5,emerging,synthetic_demo
+REC-00124,ASMT-0031,STU-0031,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00125,ASMT-0032,STU-0032,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,5,5,proficient,synthetic_demo
+REC-00126,ASMT-0032,STU-0032,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00127,ASMT-0032,STU-0032,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00128,ASMT-0032,STU-0032,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,2,5,needs_review,synthetic_demo
+REC-00129,ASMT-0033,STU-0033,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,3,5,emerging,synthetic_demo
+REC-00130,ASMT-0033,STU-0033,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,1,5,needs_review,synthetic_demo
+REC-00131,ASMT-0033,STU-0033,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00132,ASMT-0033,STU-0033,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,2,5,needs_review,synthetic_demo
+REC-00133,ASMT-0034,STU-0034,2026-09-05,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,4,5,proficient,synthetic_demo
+REC-00134,ASMT-0034,STU-0034,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,1,5,needs_review,synthetic_demo
+REC-00135,ASMT-0034,STU-0034,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00136,ASMT-0034,STU-0034,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00137,ASMT-0035,STU-0035,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00138,ASMT-0035,STU-0035,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00139,ASMT-0035,STU-0035,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00140,ASMT-0035,STU-0035,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00141,ASMT-0035,STU-0035,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00142,ASMT-0035,STU-0035,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00143,ASMT-0036,STU-0036,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00144,ASMT-0036,STU-0036,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,3,5,emerging,synthetic_demo
+REC-00145,ASMT-0036,STU-0036,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00146,ASMT-0036,STU-0036,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00147,ASMT-0036,STU-0036,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,1,5,needs_review,synthetic_demo
+REC-00148,ASMT-0036,STU-0036,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,1,5,needs_review,synthetic_demo
+REC-00149,ASMT-0037,STU-0037,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00150,ASMT-0037,STU-0037,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00151,ASMT-0037,STU-0037,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00152,ASMT-0037,STU-0037,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00153,ASMT-0037,STU-0037,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00154,ASMT-0037,STU-0037,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00155,ASMT-0038,STU-0038,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00156,ASMT-0038,STU-0038,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00157,ASMT-0038,STU-0038,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00158,ASMT-0038,STU-0038,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00159,ASMT-0038,STU-0038,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00160,ASMT-0038,STU-0038,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00161,ASMT-0039,STU-0039,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00162,ASMT-0039,STU-0039,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,3,5,emerging,synthetic_demo
+REC-00163,ASMT-0039,STU-0039,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00164,ASMT-0039,STU-0039,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00165,ASMT-0039,STU-0039,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00166,ASMT-0039,STU-0039,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,2,5,needs_review,synthetic_demo
+REC-00167,ASMT-0040,STU-0040,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00168,ASMT-0040,STU-0040,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,1,5,needs_review,synthetic_demo
+REC-00169,ASMT-0040,STU-0040,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00170,ASMT-0040,STU-0040,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,2,5,needs_review,synthetic_demo
+REC-00171,ASMT-0040,STU-0040,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00172,ASMT-0040,STU-0040,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00173,ASMT-0041,STU-0041,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,1,5,needs_review,synthetic_demo
+REC-00174,ASMT-0041,STU-0041,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00175,ASMT-0041,STU-0041,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00176,ASMT-0041,STU-0041,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00177,ASMT-0041,STU-0041,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,3,5,emerging,synthetic_demo
+REC-00178,ASMT-0041,STU-0041,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00179,ASMT-0042,STU-0042,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00180,ASMT-0042,STU-0042,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00181,ASMT-0042,STU-0042,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,3,5,emerging,synthetic_demo
+REC-00182,ASMT-0042,STU-0042,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00183,ASMT-0042,STU-0042,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00184,ASMT-0042,STU-0042,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00185,ASMT-0043,STU-0043,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00186,ASMT-0043,STU-0043,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00187,ASMT-0043,STU-0043,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,2,5,needs_review,synthetic_demo
+REC-00188,ASMT-0043,STU-0043,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00189,ASMT-0043,STU-0043,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00190,ASMT-0043,STU-0043,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00191,ASMT-0044,STU-0044,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00192,ASMT-0044,STU-0044,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,3,5,emerging,synthetic_demo
+REC-00193,ASMT-0044,STU-0044,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,2,5,needs_review,synthetic_demo
+REC-00194,ASMT-0044,STU-0044,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00195,ASMT-0044,STU-0044,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00196,ASMT-0044,STU-0044,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00197,ASMT-0045,STU-0045,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00198,ASMT-0045,STU-0045,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,3,5,emerging,synthetic_demo
+REC-00199,ASMT-0045,STU-0045,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00200,ASMT-0045,STU-0045,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00201,ASMT-0045,STU-0045,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00202,ASMT-0045,STU-0045,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00203,ASMT-0046,STU-0046,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00204,ASMT-0046,STU-0046,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00205,ASMT-0046,STU-0046,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00206,ASMT-0046,STU-0046,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,2,5,needs_review,synthetic_demo
+REC-00207,ASMT-0046,STU-0046,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,2,5,needs_review,synthetic_demo
+REC-00208,ASMT-0046,STU-0046,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00209,ASMT-0047,STU-0047,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00210,ASMT-0047,STU-0047,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00211,ASMT-0047,STU-0047,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,3,5,emerging,synthetic_demo
+REC-00212,ASMT-0047,STU-0047,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00213,ASMT-0047,STU-0047,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,2,5,needs_review,synthetic_demo
+REC-00214,ASMT-0047,STU-0047,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,1,5,needs_review,synthetic_demo
+REC-00215,ASMT-0048,STU-0048,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00216,ASMT-0048,STU-0048,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,2,5,needs_review,synthetic_demo
+REC-00217,ASMT-0048,STU-0048,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00218,ASMT-0048,STU-0048,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00219,ASMT-0048,STU-0048,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00220,ASMT-0048,STU-0048,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00221,ASMT-0049,STU-0049,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00222,ASMT-0049,STU-0049,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,2,5,needs_review,synthetic_demo
+REC-00223,ASMT-0049,STU-0049,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00224,ASMT-0049,STU-0049,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00225,ASMT-0049,STU-0049,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00226,ASMT-0049,STU-0049,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00227,ASMT-0050,STU-0050,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00228,ASMT-0050,STU-0050,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00229,ASMT-0050,STU-0050,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00230,ASMT-0050,STU-0050,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00231,ASMT-0050,STU-0050,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00232,ASMT-0050,STU-0050,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00233,ASMT-0051,STU-0051,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00234,ASMT-0051,STU-0051,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,1,5,needs_review,synthetic_demo
+REC-00235,ASMT-0051,STU-0051,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00236,ASMT-0051,STU-0051,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00237,ASMT-0051,STU-0051,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,1,5,needs_review,synthetic_demo
+REC-00238,ASMT-0051,STU-0051,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00239,ASMT-0052,STU-0052,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00240,ASMT-0052,STU-0052,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00241,ASMT-0052,STU-0052,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00242,ASMT-0052,STU-0052,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,1,5,needs_review,synthetic_demo
+REC-00243,ASMT-0052,STU-0052,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00244,ASMT-0052,STU-0052,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00245,ASMT-0053,STU-0053,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,2,5,needs_review,synthetic_demo
+REC-00246,ASMT-0053,STU-0053,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,1,5,needs_review,synthetic_demo
+REC-00247,ASMT-0053,STU-0053,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00248,ASMT-0053,STU-0053,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00249,ASMT-0053,STU-0053,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00250,ASMT-0053,STU-0053,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00251,ASMT-0054,STU-0054,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00252,ASMT-0054,STU-0054,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00253,ASMT-0054,STU-0054,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00254,ASMT-0054,STU-0054,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00255,ASMT-0054,STU-0054,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00256,ASMT-0054,STU-0054,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00257,ASMT-0055,STU-0055,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00258,ASMT-0055,STU-0055,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00259,ASMT-0055,STU-0055,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,3,5,emerging,synthetic_demo
+REC-00260,ASMT-0055,STU-0055,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00261,ASMT-0055,STU-0055,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00262,ASMT-0055,STU-0055,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,1,5,needs_review,synthetic_demo
+REC-00263,ASMT-0056,STU-0056,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00264,ASMT-0056,STU-0056,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,1,5,needs_review,synthetic_demo
+REC-00265,ASMT-0056,STU-0056,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,2,5,needs_review,synthetic_demo
+REC-00266,ASMT-0056,STU-0056,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00267,ASMT-0056,STU-0056,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00268,ASMT-0056,STU-0056,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00269,ASMT-0057,STU-0057,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00270,ASMT-0057,STU-0057,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00271,ASMT-0057,STU-0057,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00272,ASMT-0057,STU-0057,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00273,ASMT-0057,STU-0057,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,3,5,emerging,synthetic_demo
+REC-00274,ASMT-0057,STU-0057,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00275,ASMT-0058,STU-0058,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00276,ASMT-0058,STU-0058,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00277,ASMT-0058,STU-0058,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00278,ASMT-0058,STU-0058,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00279,ASMT-0058,STU-0058,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00280,ASMT-0058,STU-0058,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00281,ASMT-0059,STU-0059,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00282,ASMT-0059,STU-0059,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00283,ASMT-0059,STU-0059,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,2,5,needs_review,synthetic_demo
+REC-00284,ASMT-0059,STU-0059,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,2,5,needs_review,synthetic_demo
+REC-00285,ASMT-0059,STU-0059,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,2,5,needs_review,synthetic_demo
+REC-00286,ASMT-0059,STU-0059,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00287,ASMT-0060,STU-0060,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00288,ASMT-0060,STU-0060,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,3,5,emerging,synthetic_demo
+REC-00289,ASMT-0060,STU-0060,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00290,ASMT-0060,STU-0060,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00291,ASMT-0060,STU-0060,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00292,ASMT-0060,STU-0060,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00293,ASMT-0061,STU-0061,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,1,5,needs_review,synthetic_demo
+REC-00294,ASMT-0061,STU-0061,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00295,ASMT-0061,STU-0061,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00296,ASMT-0061,STU-0061,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00297,ASMT-0061,STU-0061,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,1,5,needs_review,synthetic_demo
+REC-00298,ASMT-0061,STU-0061,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00299,ASMT-0062,STU-0062,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,1,5,needs_review,synthetic_demo
+REC-00300,ASMT-0062,STU-0062,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00301,ASMT-0062,STU-0062,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,1,5,needs_review,synthetic_demo
+REC-00302,ASMT-0062,STU-0062,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00303,ASMT-0062,STU-0062,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00304,ASMT-0062,STU-0062,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00305,ASMT-0063,STU-0063,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00306,ASMT-0063,STU-0063,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00307,ASMT-0063,STU-0063,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,4,5,proficient,synthetic_demo
+REC-00308,ASMT-0063,STU-0063,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00309,ASMT-0063,STU-0063,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00310,ASMT-0063,STU-0063,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00311,ASMT-0064,STU-0064,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00312,ASMT-0064,STU-0064,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00313,ASMT-0064,STU-0064,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,2,5,needs_review,synthetic_demo
+REC-00314,ASMT-0064,STU-0064,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00315,ASMT-0064,STU-0064,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00316,ASMT-0064,STU-0064,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00317,ASMT-0065,STU-0065,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00318,ASMT-0065,STU-0065,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,2,5,needs_review,synthetic_demo
+REC-00319,ASMT-0065,STU-0065,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,2,5,needs_review,synthetic_demo
+REC-00320,ASMT-0065,STU-0065,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00321,ASMT-0065,STU-0065,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00322,ASMT-0065,STU-0065,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00323,ASMT-0066,STU-0066,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00324,ASMT-0066,STU-0066,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,2,5,needs_review,synthetic_demo
+REC-00325,ASMT-0066,STU-0066,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00326,ASMT-0066,STU-0066,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00327,ASMT-0066,STU-0066,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,3,5,emerging,synthetic_demo
+REC-00328,ASMT-0066,STU-0066,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00329,ASMT-0067,STU-0067,2026-09-05,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00330,ASMT-0067,STU-0067,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00331,ASMT-0067,STU-0067,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,5,5,proficient,synthetic_demo
+REC-00332,ASMT-0067,STU-0067,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00333,ASMT-0067,STU-0067,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00334,ASMT-0067,STU-0067,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,1,5,needs_review,synthetic_demo
+REC-00335,ASMT-0068,STU-0068,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,3,5,emerging,synthetic_demo
+REC-00336,ASMT-0068,STU-0068,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,3,5,emerging,synthetic_demo
+REC-00337,ASMT-0068,STU-0068,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00338,ASMT-0068,STU-0068,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00339,ASMT-0068,STU-0068,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00340,ASMT-0069,STU-0069,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,2,5,needs_review,synthetic_demo
+REC-00341,ASMT-0069,STU-0069,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,4,5,proficient,synthetic_demo
+REC-00342,ASMT-0069,STU-0069,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00343,ASMT-0069,STU-0069,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00344,ASMT-0069,STU-0069,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,1,5,needs_review,synthetic_demo
+REC-00345,ASMT-0070,STU-0070,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00346,ASMT-0070,STU-0070,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,3,5,emerging,synthetic_demo
+REC-00347,ASMT-0070,STU-0070,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00348,ASMT-0070,STU-0070,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00349,ASMT-0070,STU-0070,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00350,ASMT-0071,STU-0071,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,3,5,emerging,synthetic_demo
+REC-00351,ASMT-0071,STU-0071,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,5,5,proficient,synthetic_demo
+REC-00352,ASMT-0071,STU-0071,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00353,ASMT-0071,STU-0071,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,1,5,needs_review,synthetic_demo
+REC-00354,ASMT-0071,STU-0071,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00355,ASMT-0072,STU-0072,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00356,ASMT-0072,STU-0072,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,2,5,needs_review,synthetic_demo
+REC-00357,ASMT-0072,STU-0072,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00358,ASMT-0072,STU-0072,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00359,ASMT-0072,STU-0072,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00360,ASMT-0073,STU-0073,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,3,5,emerging,synthetic_demo
+REC-00361,ASMT-0073,STU-0073,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,3,5,emerging,synthetic_demo
+REC-00362,ASMT-0073,STU-0073,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00363,ASMT-0073,STU-0073,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00364,ASMT-0073,STU-0073,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00365,ASMT-0074,STU-0074,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00366,ASMT-0074,STU-0074,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,4,5,proficient,synthetic_demo
+REC-00367,ASMT-0074,STU-0074,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00368,ASMT-0074,STU-0074,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,1,5,needs_review,synthetic_demo
+REC-00369,ASMT-0074,STU-0074,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00370,ASMT-0075,STU-0075,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00371,ASMT-0075,STU-0075,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,1,5,needs_review,synthetic_demo
+REC-00372,ASMT-0075,STU-0075,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00373,ASMT-0075,STU-0075,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00374,ASMT-0075,STU-0075,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00375,ASMT-0076,STU-0076,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00376,ASMT-0076,STU-0076,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,2,5,needs_review,synthetic_demo
+REC-00377,ASMT-0076,STU-0076,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,1,5,needs_review,synthetic_demo
+REC-00378,ASMT-0076,STU-0076,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,2,5,needs_review,synthetic_demo
+REC-00379,ASMT-0076,STU-0076,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00380,ASMT-0077,STU-0077,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00381,ASMT-0077,STU-0077,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,5,5,proficient,synthetic_demo
+REC-00382,ASMT-0077,STU-0077,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00383,ASMT-0077,STU-0077,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00384,ASMT-0077,STU-0077,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00385,ASMT-0078,STU-0078,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00386,ASMT-0078,STU-0078,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,4,5,proficient,synthetic_demo
+REC-00387,ASMT-0078,STU-0078,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00388,ASMT-0078,STU-0078,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00389,ASMT-0078,STU-0078,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00390,ASMT-0079,STU-0079,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00391,ASMT-0079,STU-0079,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,2,5,needs_review,synthetic_demo
+REC-00392,ASMT-0079,STU-0079,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00393,ASMT-0079,STU-0079,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,3,5,emerging,synthetic_demo
+REC-00394,ASMT-0079,STU-0079,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00395,ASMT-0080,STU-0080,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00396,ASMT-0080,STU-0080,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,1,5,needs_review,synthetic_demo
+REC-00397,ASMT-0080,STU-0080,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00398,ASMT-0080,STU-0080,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00399,ASMT-0080,STU-0080,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00400,ASMT-0081,STU-0081,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00401,ASMT-0081,STU-0081,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,2,5,needs_review,synthetic_demo
+REC-00402,ASMT-0081,STU-0081,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00403,ASMT-0081,STU-0081,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00404,ASMT-0081,STU-0081,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00405,ASMT-0082,STU-0082,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00406,ASMT-0082,STU-0082,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,4,5,proficient,synthetic_demo
+REC-00407,ASMT-0082,STU-0082,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00408,ASMT-0082,STU-0082,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00409,ASMT-0082,STU-0082,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,1,5,needs_review,synthetic_demo
+REC-00410,ASMT-0083,STU-0083,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00411,ASMT-0083,STU-0083,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,4,5,proficient,synthetic_demo
+REC-00412,ASMT-0083,STU-0083,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00413,ASMT-0083,STU-0083,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00414,ASMT-0083,STU-0083,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00415,ASMT-0084,STU-0084,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00416,ASMT-0084,STU-0084,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,5,5,proficient,synthetic_demo
+REC-00417,ASMT-0084,STU-0084,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00418,ASMT-0084,STU-0084,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,3,5,emerging,synthetic_demo
+REC-00419,ASMT-0084,STU-0084,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00420,ASMT-0085,STU-0085,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,3,5,emerging,synthetic_demo
+REC-00421,ASMT-0085,STU-0085,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,5,5,proficient,synthetic_demo
+REC-00422,ASMT-0085,STU-0085,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00423,ASMT-0085,STU-0085,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00424,ASMT-0085,STU-0085,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00425,ASMT-0086,STU-0086,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,3,5,emerging,synthetic_demo
+REC-00426,ASMT-0086,STU-0086,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,2,5,needs_review,synthetic_demo
+REC-00427,ASMT-0086,STU-0086,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00428,ASMT-0086,STU-0086,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00429,ASMT-0086,STU-0086,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00430,ASMT-0087,STU-0087,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00431,ASMT-0087,STU-0087,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,4,5,proficient,synthetic_demo
+REC-00432,ASMT-0087,STU-0087,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00433,ASMT-0087,STU-0087,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00434,ASMT-0087,STU-0087,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00435,ASMT-0088,STU-0088,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,1,5,needs_review,synthetic_demo
+REC-00436,ASMT-0088,STU-0088,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,5,5,proficient,synthetic_demo
+REC-00437,ASMT-0088,STU-0088,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00438,ASMT-0088,STU-0088,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,1,5,needs_review,synthetic_demo
+REC-00439,ASMT-0088,STU-0088,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00440,ASMT-0089,STU-0089,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00441,ASMT-0089,STU-0089,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,5,5,proficient,synthetic_demo
+REC-00442,ASMT-0089,STU-0089,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00443,ASMT-0089,STU-0089,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00444,ASMT-0089,STU-0089,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00445,ASMT-0090,STU-0090,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00446,ASMT-0090,STU-0090,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,3,5,emerging,synthetic_demo
+REC-00447,ASMT-0090,STU-0090,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00448,ASMT-0090,STU-0090,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00449,ASMT-0090,STU-0090,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00450,ASMT-0091,STU-0091,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,3,5,emerging,synthetic_demo
+REC-00451,ASMT-0091,STU-0091,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,5,5,proficient,synthetic_demo
+REC-00452,ASMT-0091,STU-0091,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00453,ASMT-0091,STU-0091,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00454,ASMT-0091,STU-0091,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00455,ASMT-0092,STU-0092,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00456,ASMT-0092,STU-0092,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,3,5,emerging,synthetic_demo
+REC-00457,ASMT-0092,STU-0092,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,5,5,proficient,synthetic_demo
+REC-00458,ASMT-0092,STU-0092,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00459,ASMT-0092,STU-0092,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00460,ASMT-0093,STU-0093,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00461,ASMT-0093,STU-0093,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,5,5,proficient,synthetic_demo
+REC-00462,ASMT-0093,STU-0093,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,2,5,needs_review,synthetic_demo
+REC-00463,ASMT-0093,STU-0093,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00464,ASMT-0093,STU-0093,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00465,ASMT-0094,STU-0094,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00466,ASMT-0094,STU-0094,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,4,5,proficient,synthetic_demo
+REC-00467,ASMT-0094,STU-0094,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,2,5,needs_review,synthetic_demo
+REC-00468,ASMT-0094,STU-0094,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00469,ASMT-0094,STU-0094,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,2,5,needs_review,synthetic_demo
+REC-00470,ASMT-0095,STU-0095,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,1,5,needs_review,synthetic_demo
+REC-00471,ASMT-0095,STU-0095,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,4,5,proficient,synthetic_demo
+REC-00472,ASMT-0095,STU-0095,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,2,5,needs_review,synthetic_demo
+REC-00473,ASMT-0095,STU-0095,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,3,5,emerging,synthetic_demo
+REC-00474,ASMT-0095,STU-0095,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00475,ASMT-0096,STU-0096,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00476,ASMT-0096,STU-0096,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,5,5,proficient,synthetic_demo
+REC-00477,ASMT-0096,STU-0096,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00478,ASMT-0096,STU-0096,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00479,ASMT-0096,STU-0096,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,5,5,proficient,synthetic_demo
+REC-00480,ASMT-0097,STU-0097,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00481,ASMT-0097,STU-0097,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,4,5,proficient,synthetic_demo
+REC-00482,ASMT-0097,STU-0097,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00483,ASMT-0097,STU-0097,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00484,ASMT-0097,STU-0097,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00485,ASMT-0098,STU-0098,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,3,5,emerging,synthetic_demo
+REC-00486,ASMT-0098,STU-0098,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,2,5,needs_review,synthetic_demo
+REC-00487,ASMT-0098,STU-0098,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,3,5,emerging,synthetic_demo
+REC-00488,ASMT-0098,STU-0098,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,2,5,needs_review,synthetic_demo
+REC-00489,ASMT-0098,STU-0098,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,4,5,proficient,synthetic_demo
+REC-00490,ASMT-0099,STU-0099,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,1,5,needs_review,synthetic_demo
+REC-00491,ASMT-0099,STU-0099,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,5,5,proficient,synthetic_demo
+REC-00492,ASMT-0099,STU-0099,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00493,ASMT-0099,STU-0099,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00494,ASMT-0099,STU-0099,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00495,ASMT-0100,STU-0100,2026-09-05,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00496,ASMT-0100,STU-0100,2026-09-05,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,3,5,emerging,synthetic_demo
+REC-00497,ASMT-0100,STU-0100,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,2,5,needs_review,synthetic_demo
+REC-00498,ASMT-0100,STU-0100,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00499,ASMT-0100,STU-0100,2026-09-05,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,2,5,needs_review,synthetic_demo
+REC-00500,ASMT-0101,STU-0007,2026-09-25,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00501,ASMT-0102,STU-0011,2026-09-25,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,5,5,proficient,synthetic_demo
+REC-00502,ASMT-0103,STU-0012,2026-09-25,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00503,ASMT-0104,STU-0019,2026-09-25,classroom_check,FLN-MVP-v1,literacy,letter_recognition,Letter Recognition,5,5,proficient,synthetic_demo
+REC-00504,ASMT-0105,STU-0033,2026-09-25,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,4,5,proficient,synthetic_demo
+REC-00505,ASMT-0106,STU-0040,2026-09-25,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00506,ASMT-0107,STU-0044,2026-09-25,classroom_check,FLN-MVP-v1,numeracy,number_recognition,Number Recognition,3,5,emerging,synthetic_demo
+REC-00507,ASMT-0108,STU-0047,2026-09-25,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,5,5,proficient,synthetic_demo
+REC-00508,ASMT-0109,STU-0051,2026-09-25,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,5,5,proficient,synthetic_demo
+REC-00509,ASMT-0110,STU-0052,2026-09-25,classroom_check,FLN-MVP-v1,numeracy,place_value,Place Value,4,5,proficient,synthetic_demo
+REC-00510,ASMT-0111,STU-0062,2026-09-25,classroom_check,FLN-MVP-v1,literacy,word_reading,Word Reading,3,5,emerging,synthetic_demo
+REC-00511,ASMT-0112,STU-0065,2026-09-25,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00512,ASMT-0113,STU-0071,2026-09-25,classroom_check,FLN-MVP-v1,numeracy,addition,Addition,4,5,proficient,synthetic_demo
+REC-00513,ASMT-0114,STU-0072,2026-09-25,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,5,5,proficient,synthetic_demo
+REC-00514,ASMT-0115,STU-0075,2026-09-25,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,5,5,proficient,synthetic_demo
+REC-00515,ASMT-0116,STU-0079,2026-09-25,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,4,5,proficient,synthetic_demo
+REC-00516,ASMT-0117,STU-0080,2026-09-25,classroom_check,FLN-MVP-v1,literacy,reading_comprehension,Reading Comprehension,4,5,proficient,synthetic_demo
+REC-00517,ASMT-0118,STU-0082,2026-09-25,classroom_check,FLN-MVP-v1,numeracy,subtraction,Subtraction,3,5,emerging,synthetic_demo
+REC-00518,ASMT-0119,STU-0095,2026-09-25,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo
+REC-00519,ASMT-0120,STU-0099,2026-09-25,classroom_check,FLN-MVP-v1,literacy,sentence_reading,Sentence Reading,4,5,proficient,synthetic_demo

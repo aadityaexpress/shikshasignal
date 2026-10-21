@@ -1,0 +1,2 @@
+intervention_id,student_id,intervention_date,skill_code,intervention_type,teacher_note_non_identifying,followup_assessment_id
+INT-0001,STU-0001,2026-09-18,word_reading,guided_word_practice,"Practiced 2-letter and 3-letter word cards with phonics cues",ASMT-0002

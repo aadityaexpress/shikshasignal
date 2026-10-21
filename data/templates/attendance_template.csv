@@ -1,0 +1,3 @@
+student_id,attendance_date,attendance_status,data_source
+STU-0001,2026-09-15,present,synthetic_demo
+STU-0001,2026-09-16,present,synthetic_demo

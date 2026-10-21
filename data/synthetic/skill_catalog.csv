@@ -1,0 +1,9 @@
+skill_code,domain,skill_name,grade_applicability,"description",mapping_reference,benchmark_threshold_ratio
+letter_recognition,literacy,Letter Recognition,"1,2","Recognises letters and their corresponding sounds where appropriate",NIPUN-LIT-G1-01,0.60
+word_reading,literacy,Word Reading,"1,2,3","Reads grade-appropriate words presented in the assessment",NIPUN-LIT-G1-02,0.60
+sentence_reading,literacy,Sentence Reading,"2,3","Reads simple short sentences with age-appropriate fluency",NIPUN-LIT-G2-01,0.60
+reading_comprehension,literacy,Reading Comprehension,"2,3","Answers direct comprehension questions based on a short text",NIPUN-LIT-G3-01,0.60
+number_recognition,numeracy,Number Recognition,"1,2","Recognises and names numerals up to grade expectations",NIPUN-NUM-G1-01,0.60
+place_value,numeracy,Place Value,"2,3","Demonstrates understanding of tens and ones place value",NIPUN-NUM-G2-01,0.60
+addition,numeracy,Addition,"1,2,3","Completes grade-appropriate single and two-digit addition tasks",NIPUN-NUM-G1-02,0.60
+subtraction,numeracy,Subtraction,"2,3","Completes grade-appropriate subtraction tasks",NIPUN-NUM-G2-02,0.60

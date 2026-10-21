@@ -1,0 +1,33 @@
+intervention_id,student_id,intervention_date,skill_code,intervention_type,teacher_note_non_identifying,followup_assessment_id
+INT-0001,STU-0005,2026-09-15,letter_recognition,targeted_letter_recognition_practice,Conducted targeted 15-minute small-group remediation on Letter Recognition.,
+INT-0002,STU-0007,2026-09-15,word_reading,targeted_word_reading_practice,Conducted targeted 15-minute small-group remediation on Word Reading.,ASMT-0101
+INT-0003,STU-0011,2026-09-15,word_reading,targeted_word_reading_practice,Conducted targeted 15-minute small-group remediation on Word Reading.,ASMT-0102
+INT-0004,STU-0012,2026-09-15,addition,targeted_addition_practice,Conducted targeted 15-minute small-group remediation on Addition.,ASMT-0103
+INT-0005,STU-0017,2026-09-15,word_reading,targeted_word_reading_practice,Conducted targeted 15-minute small-group remediation on Word Reading.,
+INT-0006,STU-0019,2026-09-15,letter_recognition,targeted_letter_recognition_practice,Conducted targeted 15-minute small-group remediation on Letter Recognition.,ASMT-0104
+INT-0007,STU-0032,2026-09-15,addition,targeted_addition_practice,Conducted targeted 15-minute small-group remediation on Addition.,
+INT-0008,STU-0033,2026-09-15,word_reading,targeted_word_reading_practice,Conducted targeted 15-minute small-group remediation on Word Reading.,ASMT-0105
+INT-0009,STU-0034,2026-09-15,word_reading,targeted_word_reading_practice,Conducted targeted 15-minute small-group remediation on Word Reading.,
+INT-0010,STU-0040,2026-09-15,sentence_reading,targeted_sentence_reading_practice,Conducted targeted 15-minute small-group remediation on Sentence Reading.,ASMT-0106
+INT-0011,STU-0043,2026-09-15,number_recognition,targeted_number_recognition_practice,Conducted targeted 15-minute small-group remediation on Number Recognition.,
+INT-0012,STU-0044,2026-09-15,number_recognition,targeted_number_recognition_practice,Conducted targeted 15-minute small-group remediation on Number Recognition.,ASMT-0107
+INT-0013,STU-0046,2026-09-15,place_value,targeted_place_value_practice,Conducted targeted 15-minute small-group remediation on Place Value.,
+INT-0014,STU-0047,2026-09-15,addition,targeted_addition_practice,Conducted targeted 15-minute small-group remediation on Addition.,ASMT-0108
+INT-0015,STU-0048,2026-09-15,sentence_reading,targeted_sentence_reading_practice,Conducted targeted 15-minute small-group remediation on Sentence Reading.,
+INT-0016,STU-0051,2026-09-15,sentence_reading,targeted_sentence_reading_practice,Conducted targeted 15-minute small-group remediation on Sentence Reading.,ASMT-0109
+INT-0017,STU-0052,2026-09-15,place_value,targeted_place_value_practice,Conducted targeted 15-minute small-group remediation on Place Value.,ASMT-0110
+INT-0018,STU-0059,2026-09-15,number_recognition,targeted_number_recognition_practice,Conducted targeted 15-minute small-group remediation on Number Recognition.,
+INT-0019,STU-0062,2026-09-15,word_reading,targeted_word_reading_practice,Conducted targeted 15-minute small-group remediation on Word Reading.,ASMT-0111
+INT-0020,STU-0065,2026-09-15,sentence_reading,targeted_sentence_reading_practice,Conducted targeted 15-minute small-group remediation on Sentence Reading.,ASMT-0112
+INT-0021,STU-0067,2026-09-15,subtraction,targeted_subtraction_practice,Conducted targeted 15-minute small-group remediation on Subtraction.,
+INT-0022,STU-0071,2026-09-15,addition,targeted_addition_practice,Conducted targeted 15-minute small-group remediation on Addition.,ASMT-0113
+INT-0023,STU-0072,2026-09-15,reading_comprehension,targeted_reading_comprehension_practice,Conducted targeted 15-minute small-group remediation on Reading Comprehension.,ASMT-0114
+INT-0024,STU-0074,2026-09-15,addition,targeted_addition_practice,Conducted targeted 15-minute small-group remediation on Addition.,
+INT-0025,STU-0075,2026-09-15,reading_comprehension,targeted_reading_comprehension_practice,Conducted targeted 15-minute small-group remediation on Reading Comprehension.,ASMT-0115
+INT-0026,STU-0079,2026-09-15,reading_comprehension,targeted_reading_comprehension_practice,Conducted targeted 15-minute small-group remediation on Reading Comprehension.,ASMT-0116
+INT-0027,STU-0080,2026-09-15,reading_comprehension,targeted_reading_comprehension_practice,Conducted targeted 15-minute small-group remediation on Reading Comprehension.,ASMT-0117
+INT-0028,STU-0082,2026-09-15,subtraction,targeted_subtraction_practice,Conducted targeted 15-minute small-group remediation on Subtraction.,ASMT-0118
+INT-0029,STU-0093,2026-09-15,place_value,targeted_place_value_practice,Conducted targeted 15-minute small-group remediation on Place Value.,
+INT-0030,STU-0095,2026-09-15,sentence_reading,targeted_sentence_reading_practice,Conducted targeted 15-minute small-group remediation on Sentence Reading.,ASMT-0119
+INT-0031,STU-0098,2026-09-15,reading_comprehension,targeted_reading_comprehension_practice,Conducted targeted 15-minute small-group remediation on Reading Comprehension.,
+INT-0032,STU-0099,2026-09-15,sentence_reading,targeted_sentence_reading_practice,Conducted targeted 15-minute small-group remediation on Sentence Reading.,ASMT-0120
